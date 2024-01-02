@@ -19,7 +19,7 @@ title: Setup
 >
 > Once you have launched the Docker container, type the following commands in that environment (terminal).
 > ~~~
-> pip install vector hist mplhep coffea cabinetry
+> pip install vector hist mplhep coffea=0.7 cabinetry
 > ~~~
 > {: .language-bash}
 >
