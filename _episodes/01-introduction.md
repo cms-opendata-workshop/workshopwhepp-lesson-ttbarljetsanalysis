@@ -74,7 +74,7 @@ docker start -i my_python  #give the name of your container
 In order to use the `coffea` framework for our analysis, we need to install these additional packages directly in our container.  We are adding 
 `cabinetry` as well because we will use it later in our last episode. *This can take a few minutes to install.*
 ~~~
-pip install vector hist mplhep coffea=0.7 cabinetry
+pip install vector hist mplhep coffea==0.7 cabinetry
 ~~~
 {: .language-bash}
 
