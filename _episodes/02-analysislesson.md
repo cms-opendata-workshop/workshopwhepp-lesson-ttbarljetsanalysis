@@ -37,8 +37,11 @@ Follow the ``Bonus Material" episodes to incorporate multiple simulated samples 
 ## Slides
 
 We want to motivate why we are encouraging you to look into some of these newer software tools.
-Let's go through [these slides](FIXME) together to review this analysis and to get a more complete
-overview of what goes into an analysis. 
+By now, you should have heard about this particular measurement and how CMS reconstructs the different
+physics objects. If you'd like, you can review that material with [these slides](https://docs.google.com/presentation/d/1DO3gYJwqpEiEbdZiPxnZ9go-O5qrMGuxqPts71pQctg/edit?usp=sharing).
+
+Together, we will go through [these slides](https://docs.google.com/presentation/d/1kV4yX-v-_SQgo05iaP-qbf6daR4ajsUdcxSwTbB1vPE/edit?usp=sharing) to get a more complete overview of what goes into an analysis and to understand why we need
+all these tools and how they make our life easier.
 
 ## Launch Jupyter notebook
 
