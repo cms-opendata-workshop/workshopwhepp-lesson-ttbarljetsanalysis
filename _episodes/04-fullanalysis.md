@@ -961,6 +961,9 @@ If you have a good connection you may get to run over just a single file per dat
 > python plotme.py
 > ~~~
 > {: .languagle-bash}
+>
+> The plot will most likely not display, but it *will* save the image as `finalplot.png`. Since this directory is also visible on your local machine, you can use the image viewer of your choice to inspect it.
+> 
 {: .challenge}
 
 ![](../assets/img/finalplot_ttbar.png){:width="60%"}
