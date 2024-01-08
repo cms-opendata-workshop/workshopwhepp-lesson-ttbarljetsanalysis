@@ -177,6 +177,8 @@ Anyone, in principle, can write a schema that suits particular needs and that co
 > ~~~
 > {: .language-python}
 > The figure will show up in the directory in both docker and on your local machine.
+>
+> After you make your plot, add it to [these Google Slides](https://docs.google.com/presentation/d/16bN4acR78S0JB7L3NI78I7R640beRtQjvhuYoYgrDek/edit?usp=sharing). Edit the slides to add your name so that we can credit you for your great work! :)
 > 
 > Good luck!
 >
